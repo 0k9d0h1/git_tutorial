@@ -1,2 +1,3 @@
 test_home
 1
+w
